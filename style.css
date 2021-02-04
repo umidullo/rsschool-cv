@@ -10,6 +10,10 @@ body {
   margin: auto;
 }
 
+h1 {
+  padding-bottom: 40px;
+}
+
 img {
   width: 140px;
   height: 140px;
@@ -24,4 +28,15 @@ img {
 .english {
   display: flex;
   justify-content: space-between;
+  align-items: stretch;
+  padding: 20px;
+  border-bottom: 1px solid grey;
+}
+
+p {
+  width: 50%;
+}
+
+li {
+  display: flex;
 }
