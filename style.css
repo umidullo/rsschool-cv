@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  max-width: 1170px;
+  margin: auto;
+}
+
+img {
+  width: 140px;
+  height: 140px;
+}
+
+.contact,
+.summary,
+.skills,
+.code,
+.experience,
+.education,
+.english {
+  display: flex;
+  justify-content: space-between;
+}
