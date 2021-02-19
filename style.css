@@ -8,6 +8,7 @@ body {
   width: 100%;
   max-width: 1170px;
   margin: auto;
+  font-family: "Montserrat", sans-serif;
 }
 
 h1 {
@@ -30,7 +31,7 @@ img {
   justify-content: space-between;
   align-items: stretch;
   padding: 20px;
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid cornflowerblue;
 }
 
 p {
@@ -39,4 +40,8 @@ p {
 
 li {
   display: flex;
+}
+
+h3 {
+  color: chocolate;
 }
