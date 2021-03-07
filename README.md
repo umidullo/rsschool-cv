@@ -1,1 +1,1 @@
-https://umidullo.github.io/rsschool-cv/cv
+https://umidullo.github.io/rsschool-cv/
